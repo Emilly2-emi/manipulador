@@ -1,0 +1,8 @@
+body{background-repeat: no-repeat;
+    background-size: cover;}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
