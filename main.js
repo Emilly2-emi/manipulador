@@ -35,6 +35,6 @@ function draw(){
     background('#D6EAF8');
     textSize(dife);
     fill('#7FFFD4');
-    text("Emilly",200,200);
+    text("Emilly",150,400);
 }
 
